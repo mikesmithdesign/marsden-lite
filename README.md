@@ -39,4 +39,4 @@ work gallery with lightbox, a working quote form, four colour packs with a
 switcher, and JSON-driven content (rebrand the whole site from one config
 file), built as an Astro 7 project.
 
-→ https://mikesmithdesign.gumroad.com/l/marsden-astro-theme (£20)
+→ [Marsden, the full Astro theme for trades and home services](https://mikesmithdesign.co.uk/themes/marsden) (£20)
